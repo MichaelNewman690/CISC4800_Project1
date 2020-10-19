@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://wallpapershome.com/images/pages/ico_v/19294.jpg");
+  background-size: 100%;
+  margin:0px;
+  font-family: Ariel, Helvetica, sans-serif;
+}
+.mainBody{
+  background-color: beige;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+table{
+  background-image: url("images/tools.jpg");
+  width:697px;
+  height: 519px;
+
+}
+iframe{
+  width:100%;
+  height: auto%;
+}
+footer{
+  background-color: black;
+  height: 30px;
+  width: 100%;
+}
+footer a{
+  color: cyan;
+}
+h1, h2{
+  text-decoration: underline;
+}
